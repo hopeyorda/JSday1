@@ -1,0 +1,11 @@
+  body{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+  }
+  #lab{
+    color: blue;
+    }
+    button{
+        color: rgb(1, 22, 15);
+    }
